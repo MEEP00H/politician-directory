@@ -125,7 +125,7 @@ export default ({
               }
               .currentFilter {
                 border-radius: 7.5px;
-                margin: 0 0 0 5rem;
+                margin: 0 0 0 0rem;
               }
               .currentFilter:hover {
                 background-color: #eef090;

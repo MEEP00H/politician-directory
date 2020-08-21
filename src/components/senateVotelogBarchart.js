@@ -77,7 +77,6 @@ const BarCharts = props => {
   }, [props.filter_senatorId])
 
   let data_of_motion = []
-
   const handleFilter = e => {
     let filter = e.target.innerText
     const sort_by_data = (a, b) => {
